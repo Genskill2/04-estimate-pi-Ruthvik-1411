@@ -26,7 +26,6 @@ pi=4*(float)incirc/n;
 return pi;
 }
 
-
 int main(void) {
   float pi0;
   float pi1;
